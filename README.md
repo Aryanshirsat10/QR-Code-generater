@@ -2,6 +2,7 @@
 !pip install pyqrcode
 
 import pyqrcode 
+
 from pyqrcode import QRCode
 
 #String which represent the QR code
